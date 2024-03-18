@@ -4,8 +4,6 @@ import './App.css'
 
 const App = () => {
   
-  const i
-  
   return (
     <div className='body'>
     <div className='corpo'>
